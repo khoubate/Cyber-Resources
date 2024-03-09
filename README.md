@@ -1,14 +1,5 @@
 # Cybersecurity Playground - Unleash Your Skills! 🔒💻🌐
 
-## Table of Contents
-
-- [Hands-On Real-World Scenarios](#hands-on-real-world-scenarios)
-- [REDTEAM Challenges - Offense as the Best Defense!](#redteam-challenges---offense-as-the-best-defense)
-- [BLUETEAM Exercises - Be the Digital Guardian!](#blueteam-exercises---be-the-digital-guardian)
-- [Capture The Flag (CTF) Adventures](#capture-the-flag-ctf-adventures)
-- [Level Up Your Skills - Earn Badges!](#level-up-your-skills---earn-badges)
-- [Join the Cybersecurity Revolution](#join-the-cybersecurity-revolution)
-
 Welcome to the ultimate hub for honing your hacking prowess! 🚀 Our FREE collection of cutting-edge labs is meticulously designed to sharpen your REDTEAM, BLUETEAM, and CTF skills, offering an immersive experience for cybersecurity enthusiasts of all levels.
 
 ## Hands-On Real-World Scenarios 🛠️
