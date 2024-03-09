@@ -1,33 +1,3 @@
-
-## title {.tabset .tabset-fade}
-content above tabbed region.
-
-### tab Social-Media
-
-tab content Social-Media
-
-### tab Contact
-
-tab content  Contact
-
-### tab Revisions
-
-tab content  Revisions
-
-### tab Articles
-
-tab content  Articles
-
-### tab Skills
-
-tab content  Skills
-
-### tab Insights
-
-tab content  Insights
-
-content below tabbed region
-
 # Cybersecurity Playground - Unleash Your Skills! 🔒💻🌐
 
 Welcome to the ultimate hub for honing your hacking prowess! 🚀 Our FREE collection of cutting-edge labs is meticulously designed to sharpen your REDTEAM, BLUETEAM, and CTF skills, offering an immersive experience for cybersecurity enthusiasts of all levels.
